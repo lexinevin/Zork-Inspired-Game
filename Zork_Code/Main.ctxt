@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Main\ Class\ -\ the\ runner\ class\ of\ the\ "Zork"\ game.\r\n\r\n\ Author\:\ \ Kevin\ Good\r\n\ Version\:\ 1\r\n\ Date\:\ \ \ \ October\ 2018\r\n\ \r\n\ \ To\ play\ this\ game,\ the\ main\ method\ creates\ an\ instance\ \r\n\ \ of\ the\ Game\ class\ and\ calls\ the\ "play"\ method.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
